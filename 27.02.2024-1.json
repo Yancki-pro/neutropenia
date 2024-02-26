@@ -1,0 +1,25 @@
+{
+    "name": "Paul Mclaughlin",
+    "age": 4,
+    "address": {
+        "street": "James Cove",
+        "city": "Austinstad",
+        "state": "New Hampshire",
+        "zip": "01492"
+    },
+    "contact": {
+        "phone": "(884)988-5504x9985",
+        "servicePhone": "800501455"
+    },
+    "birthday": "2021-26-04",
+    "ip": "76.103.186.237",
+    "foo": "bar",
+    "profile": {
+        "about": "Control early nor international sort financial. Foreign against husband manage home response. Seem while cover role you turn.\nTwo Mr participant career speech. Continue then successful social.",
+        "bio": "Among lawyer though music. Few he store serious magazine forget. Save public sea particular successful wear center. Care try claim relationship mind ready."
+    },
+    "currency": [
+        "SAR",
+        "Saudi riyal"
+    ]
+}
