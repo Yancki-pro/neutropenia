@@ -1,0 +1,25 @@
+{
+    "name": "Mrs. Nicole Chung MD",
+    "age": 64,
+    "address": {
+        "street": "Jennifer Wall",
+        "city": "Mooreland",
+        "state": "New Hampshire",
+        "zip": "01676"
+    },
+    "contact": {
+        "phone": "001-251-436-2365",
+        "servicePhone": "800200334"
+    },
+    "birthday": "1961-26-07",
+    "ip": "48.152.226.247",
+    "foo": "bar",
+    "profile": {
+        "about": "Explain left series. Agent why listen everything.",
+        "bio": "Apply civil success focus religious.\nSpeech early three upon agent. Month watch stock week situation coach citizen. Article Mr western first."
+    },
+    "currency": [
+        "RSD",
+        "Serbian dinar"
+    ]
+}
