@@ -1,0 +1,25 @@
+{
+    "name": "Greg Smith",
+    "age": 65,
+    "address": {
+        "street": "Barnes Village",
+        "city": "Lake Renee",
+        "state": "New Hampshire",
+        "zip": "63266"
+    },
+    "contact": {
+        "phone": "+1-273-730-4889x5600",
+        "servicePhone": "800331307"
+    },
+    "birthday": "1960-11-10",
+    "ip": "79.111.241.101",
+    "foo": "bar",
+    "profile": {
+        "about": "Second loss recognize reflect research.\nTelevision view of necessary capital teacher.\nMust range game method interview way. Lawyer political quality either speak development source.",
+        "bio": "Science beautiful agree director affect. Image enjoy major time style.\nKnow reflect fund watch. Audience school sense central her."
+    },
+    "currency": [
+        "NGN",
+        "Nigerian naira"
+    ]
+}
