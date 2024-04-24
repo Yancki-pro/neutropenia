@@ -1,0 +1,25 @@
+{
+    "name": "Emily Johnson",
+    "age": 16,
+    "address": {
+        "street": "Kathy Fords",
+        "city": "Jessicastad",
+        "state": "Delaware",
+        "zip": "75735"
+    },
+    "contact": {
+        "phone": "+1-627-493-7020",
+        "servicePhone": "800849570"
+    },
+    "birthday": "2009-29-07",
+    "ip": "119.2.152.66",
+    "foo": "bar",
+    "profile": {
+        "about": "And knowledge yeah how decade. Rest guy everybody language some guess nothing. Senior control town green.\nArt whole company fall break popular. Red matter boy offer.",
+        "bio": "Feel none Mr interest always. Gun challenge contain admit from yeah somebody. Blue rule with. Possible relationship be student.\nBudget peace per economy purpose officer."
+    },
+    "currency": [
+        "RUB",
+        "Russian ruble"
+    ]
+}
