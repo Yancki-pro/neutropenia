@@ -1,0 +1,25 @@
+{
+    "name": "Johnny Barron",
+    "age": 75,
+    "address": {
+        "street": "Tyler Village",
+        "city": "South Michael",
+        "state": "Illinois",
+        "zip": "79272"
+    },
+    "contact": {
+        "phone": "001-203-519-2756",
+        "servicePhone": "800791461"
+    },
+    "birthday": "1950-01-04",
+    "ip": "4.111.99.246",
+    "foo": "bar",
+    "profile": {
+        "about": "Anything each down. Under red traditional physical.\nSummer bill special nation partner kitchen. Affect thought fly among space. Easy safe claim. Other never parent hair dark participant.",
+        "bio": "Research nearly need two. Court American these southern. Simply picture wide central.\nBeyond month child. Social record wall question serious strong people."
+    },
+    "currency": [
+        "SHP",
+        "Saint Helena pound"
+    ]
+}
