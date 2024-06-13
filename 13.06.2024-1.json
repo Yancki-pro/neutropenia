@@ -1,0 +1,25 @@
+{
+    "name": "Marcia Chapman",
+    "age": 85,
+    "address": {
+        "street": "Lucas Oval",
+        "city": "South Bryan",
+        "state": "Georgia",
+        "zip": "87724"
+    },
+    "contact": {
+        "phone": "677.484.9407",
+        "servicePhone": "800184950"
+    },
+    "birthday": "1940-01-02",
+    "ip": "181.78.129.8",
+    "foo": "bar",
+    "profile": {
+        "about": "Available husband economic environmental son available. Quickly issue finish challenge fly behavior ball Congress.\nDemocratic cut itself center risk. Question personal figure.",
+        "bio": "What from speak draw hour building we fear. Red professor card every effort involve. Ago change watch discover."
+    },
+    "currency": [
+        "MNT",
+        "Mongolian tugrik"
+    ]
+}
