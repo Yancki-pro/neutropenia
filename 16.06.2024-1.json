@@ -1,0 +1,25 @@
+{
+    "name": "Alexis Arroyo",
+    "age": 11,
+    "address": {
+        "street": "Samuel Ports",
+        "city": "New Emilychester",
+        "state": "Vermont",
+        "zip": "95400"
+    },
+    "contact": {
+        "phone": "001-533-844-7609x191",
+        "servicePhone": "800702737"
+    },
+    "birthday": "2014-23-01",
+    "ip": "162.130.28.0",
+    "foo": "bar",
+    "profile": {
+        "about": "Find they only compare expert. Guess civil agree media. State in beat science color.\nGlass garden open week left involve.",
+        "bio": "Several natural full player bring change. Move whatever special candidate size necessary account."
+    },
+    "currency": [
+        "OMR",
+        "Omani rial"
+    ]
+}
