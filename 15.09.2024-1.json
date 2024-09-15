@@ -1,0 +1,25 @@
+{
+    "name": "George Alvarez",
+    "age": 89,
+    "address": {
+        "street": "Christopher Center",
+        "city": "Toddstad",
+        "state": "Michigan",
+        "zip": "30959"
+    },
+    "contact": {
+        "phone": "616.647.8973x83517",
+        "servicePhone": "800102210"
+    },
+    "birthday": "1936-21-10",
+    "ip": "133.112.154.153",
+    "foo": "bar",
+    "profile": {
+        "about": "Media claim debate him decide develop. Art create season effect popular. Investment campaign not this region worker.\nThrough culture pay. Once reality wrong.",
+        "bio": "Now her home develop degree Mr arrive threat. Least him lot thousand official card.\nFish tend bed ten truth happen I. Purpose time rather. Activity at admit history."
+    },
+    "currency": [
+        "BTN",
+        "Bhutanese ngultrum"
+    ]
+}
