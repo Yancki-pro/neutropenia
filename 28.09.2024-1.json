@@ -1,0 +1,25 @@
+{
+    "name": "Joseph Smith",
+    "age": 36,
+    "address": {
+        "street": "Emily Pines",
+        "city": "Lake Renee",
+        "state": "Arkansas",
+        "zip": "55145"
+    },
+    "contact": {
+        "phone": "001-928-449-6767x917",
+        "servicePhone": "800586731"
+    },
+    "birthday": "1989-26-12",
+    "ip": "103.44.94.59",
+    "foo": "bar",
+    "profile": {
+        "about": "Record carry population. Young many loss almost beyond. Method every fast property since perhaps I shoulder.",
+        "bio": "Thousand exist type adult government result. Your happy this stand thing. Ever fire out discussion.\nStation degree practice. Culture child throughout choose listen consumer."
+    },
+    "currency": [
+        "ERN",
+        "Eritrean nakfa"
+    ]
+}
