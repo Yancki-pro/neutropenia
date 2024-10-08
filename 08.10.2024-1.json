@@ -1,0 +1,25 @@
+{
+    "name": "Alyssa Smith",
+    "age": 99,
+    "address": {
+        "street": "King View",
+        "city": "Lake Dana",
+        "state": "Wyoming",
+        "zip": "80231"
+    },
+    "contact": {
+        "phone": "899-349-7652x6022",
+        "servicePhone": "800450183"
+    },
+    "birthday": "1926-22-05",
+    "ip": "27.131.57.206",
+    "foo": "bar",
+    "profile": {
+        "about": "Growth thing certainly step. Meet dog foreign anything wish employee example.\nYard mouth something. Challenge season allow name. Trade serious really sing dream miss national simple.",
+        "bio": "Site boy shoulder feeling coach admit begin. Player dream seat material particularly wear agree. Include agree more control forget new station."
+    },
+    "currency": [
+        "GIP",
+        "Gibraltar pound"
+    ]
+}
