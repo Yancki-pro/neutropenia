@@ -1,0 +1,25 @@
+{
+    "name": "Michele Bishop",
+    "age": 10,
+    "address": {
+        "street": "Mora Roads",
+        "city": "Brightport",
+        "state": "New Jersey",
+        "zip": "86463"
+    },
+    "contact": {
+        "phone": "001-243-956-7097x039",
+        "servicePhone": "800311315"
+    },
+    "birthday": "2015-31-05",
+    "ip": "70.108.31.255",
+    "foo": "bar",
+    "profile": {
+        "about": "Whole serve they realize never. Each policy approach understand relationship small dinner grow. Because war certain happy above speak employee. Close friend manage become idea teach recent upon.",
+        "bio": "Serve rise especially foot. Green say do rock father. All involve end focus end meet sport instead.\nManage increase class attention report cause. Join opportunity majority president student."
+    },
+    "currency": [
+        "XCD",
+        "Eastern Caribbean dollar"
+    ]
+}
