@@ -1,0 +1,25 @@
+{
+    "name": "Lauren Cruz",
+    "age": 33,
+    "address": {
+        "street": "Reynolds Square",
+        "city": "Jessicaside",
+        "state": "Louisiana",
+        "zip": "31747"
+    },
+    "contact": {
+        "phone": "001-586-384-5934x133",
+        "servicePhone": "800697229"
+    },
+    "birthday": "1992-01-11",
+    "ip": "56.126.120.38",
+    "foo": "bar",
+    "profile": {
+        "about": "Interest drive as religious movie show how. Employee ever hope. Know institution maybe.\nTo home professor chance inside in subject.",
+        "bio": "Why next suddenly course difficult. None industry wish inside free effect. History great inside project. Head project take imagine idea.\nArtist father author. Even almost international them."
+    },
+    "currency": [
+        "DZD",
+        "Algerian dinar"
+    ]
+}
