@@ -1,0 +1,25 @@
+{
+    "name": "Amy Novak",
+    "age": 31,
+    "address": {
+        "street": "Contreras Square",
+        "city": "Jacquelineburgh",
+        "state": "New Jersey",
+        "zip": "94158"
+    },
+    "contact": {
+        "phone": "001-852-894-8389x3695",
+        "servicePhone": "800216017"
+    },
+    "birthday": "1994-26-01",
+    "ip": "144.92.38.129",
+    "foo": "bar",
+    "profile": {
+        "about": "Ago dark instead worker sign ten. Institution specific she important answer.\nArrive nature sing player time. Reveal major there several.",
+        "bio": "Hold manager positive second. With child record start.\nEnvironment piece wish. Forget himself hold me."
+    },
+    "currency": [
+        "KES",
+        "Kenyan shilling"
+    ]
+}

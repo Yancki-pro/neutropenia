@@ -1,0 +1,25 @@
+{
+    "name": "Sarah Jimenez",
+    "age": 31,
+    "address": {
+        "street": "Tara Gateway",
+        "city": "Port Barryview",
+        "state": "Virginia",
+        "zip": "97542"
+    },
+    "contact": {
+        "phone": "812-419-1247",
+        "servicePhone": "800665060"
+    },
+    "birthday": "1994-01-07",
+    "ip": "73.230.251.19",
+    "foo": "bar",
+    "profile": {
+        "about": "Set exactly operation. Care environment reflect child price. Brother try part until.\nThem heart raise my. Appear according left eat dog.\nFight strong experience think. Prove treatment class behind.",
+        "bio": "Action deep keep guy push authority foot. Decide age brother drop require. Network yet recent knowledge expert minute."
+    },
+    "currency": [
+        "RWF",
+        "Rwandan franc"
+    ]
+}
